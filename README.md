@@ -1,0 +1,6 @@
+- Hi, I’m @gzapia
+- I’m interested in learn and help in projects.
+- I’m currently learning Python.
+- I’m looking to collaborate on any Python projects that can bring me new knowledge.
+- How to reach me, just email me: Gustavo.zapia@gmail.com
+- And also, im from Brazil but i can speak advanced english.
